@@ -1,0 +1,18 @@
+#hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+#about{
+    color: white;
+    text-align: justify;
+}
+
+.card {
+    text-align: justify;
+}
+
+#education {
+    color: white;
+}
