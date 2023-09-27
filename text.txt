@@ -1,0 +1,17 @@
+System Integration Engineer:
+
+As  a System Integration Engineer, I travelled to ASML's customers chip manufacturing sites to perform techincal assessments on EUV systems so that they could be commissioned into production. This was the last stage of the manufacturing cycle before the system was handed over to production.
+I worked 12 hour shifts inside these fabs, mainly troubleshooting both software and hardware related issues. My tasks could go from reading endless error codes to calibrating hyper sensitive optical sensors or adjusting robot arms.
+I developped the capacity of absorving big ammounts of technical information and processing them to knowledge that I could use to get through my tasks and make sure these systems would be delivered with the highest quality standards and on time.
+
+Bosch
+
+(Master Thesis Internship) I worked at Bosch Thermotechnik for 6 months. The main goal was to assess the feasibility of hybrid heat pumps (electric heat pumps assisted by gas boilers) as products in the german market.
+On the thechnical side, I had to physically orchestrate a simulation system that could measure various performance indicators of these systems. As this generative massive ammounts of data, it was followed by a thorough analysis. This was where I became excited about the power of data, as I took valueable insights from it.
+It also entailed a macro economic analysis of the energetic and political paradigm given that electricity and gas prices as well as government incentives to decrease the gas consumption would be important variables to assess this product's feasibility.
+
+nowhere desk
+
+Nowhere Desk started out with the simple idea of creating a nice coworking space in the countryside. The idea grew to a more broad concept of community building in rural areas which have been almost abandoned.
+With the economic and demographic context of Portugal in mind, at Nowhere Desk, we believe that part of the solution for the current housing crisis coupled with the current climate paradigm is to build vibrant communities in otherwise abandoned rural areas.
+At this stage we are building our first hub in a small village in Northend Portugal.
