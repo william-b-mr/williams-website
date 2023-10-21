@@ -1,6 +1,9 @@
 #hero {
     min-height: 100vh;
-
+    font-family: 'Source Code Pro', monospace;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
@@ -16,3 +19,4 @@
 #education {
     color: white;
 }
+
