@@ -1,8 +1,9 @@
 #hero {
     min-height: 100vh;
     font-family: 'Source Code Pro', monospace;
-    display: flex;
-    align-items: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
@@ -19,6 +20,3 @@
     color: white;
 }
 
-.name {
-    color: white;
-}
